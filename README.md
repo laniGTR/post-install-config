@@ -36,7 +36,7 @@ Great, now lets create some agents. These would be employees in an organization.
 
 Alright, now lets configure SLA. SLA plans, or Service Level Agreement, provide a length of time in which help desk admins expect tickets to be closed. To configure go to Admin Panel -> Manage -> SLA -> Add New SLA. Create 3 new SLA plans.
 <p>
-<img src="https://imgur.com/NwXStTh" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MjsjYKo.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
