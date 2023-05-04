@@ -21,14 +21,14 @@ Next, configure "Teams" and add a new one. Go to Agents-> Teams. After, we want 
 <p>
 <img src="https://imgur.com/cpCGfB3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<img src="https://imgur.com/J3gJSF7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NwXStTh.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 </p>
 <br />
 
 Great, now lets create some agents. These would be employees in an organization. After that, we're going to add users. Go to Agent Panel-> Users -> Add New. We can make up any name we want.
 <p>
-<img src="https://imgur.com/TVY2jXp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MjsjYKo.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -44,7 +44,7 @@ Alright, now lets configure SLA. SLA plans, or Service Level Agreement, provide 
 
 Lastly, configure help topics by going to Admin Panel -> Manage -> Help Topics. Add the following: Business Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset. These help users categorize their tickets.
 <p>
-<img src="https://imgur.com/MjsjYKo" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pofhTPA.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
