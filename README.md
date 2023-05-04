@@ -10,7 +10,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 So we've installed osTicket and now we're going to do some post-installation setup. First, we're going to create a new role. On the admin panel, go to Agents->Roles-> add new role. For this role, check all the permissions. Next, add a department and name it "System Administrators".
 <p>
-<img src="https://imgur.com/DnKOZL6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dljth61.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <img src="https://imgur.com/0aObyvI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
@@ -36,7 +36,7 @@ Great, now lets create some agents. These would be employees in an organization.
 
 Alright, now lets configure SLA. SLA plans, or Service Level Agreement, provide a length of time in which help desk admins expect tickets to be closed. To configure go to Admin Panel -> Manage -> SLA -> Add New SLA. Create 3 new SLA plans.
 <p>
-<img src="https://imgur.com/GraKO81.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/NwXStTh" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -44,7 +44,7 @@ Alright, now lets configure SLA. SLA plans, or Service Level Agreement, provide 
 
 Lastly, configure help topics by going to Admin Panel -> Manage -> Help Topics. Add the following: Business Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset. These help users categorize their tickets.
 <p>
-<img src="https://imgur.com/eVmoTxq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/MjsjYKo" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
